@@ -1,4 +1,4 @@
-# To test Test
+# To test Test t
 version: 2
 updates:
   - package-ecosystem: "terraform"
