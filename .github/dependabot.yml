@@ -6,4 +6,4 @@ updates:
     schedule:
       interval: "monthly"
     cooldown:
-      default-days: 80
+      default-days: 90
